@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I really do not understand people nowadays.
